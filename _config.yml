@@ -1,0 +1,28 @@
+name: vitalzone
+favicon: null
+layout_spectrum: 0.6237277146428823
+typography_spectrum: 0.6651086867786944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9263470247387886
+  lightness: 0.19820513809099793
+  saturation: 0.7361560361459851
+  rhythmicContrast: 0.7492276157718152
+purpose: []
