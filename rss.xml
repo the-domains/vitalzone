@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[vitalzone]]></title>
+        <description><![CDATA[vitalzone]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 May 2016 16:19:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Vital Zone is about vital issues. Issues that are vital for the planet. Humans are violent. Basically violent. Ideals of non violence and peace are illusions and non-acceptance of the fact.</p>]]></description>
+            <link>undefinedvital-zone-is-about-vital-issues-issues-that-are-vital-for/index.html</link>
+            <guid isPermaLink="false">d8f4c850-81f4-49ca-83e9-dcc52960bd64</guid>
+            <pubDate>Mon, 02 May 2016 16:19:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
