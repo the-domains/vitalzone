@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is of practical importance. And I think this is a good place to throw all ideas. They will hopefully turn into a beautiful form that can be attended with pleasure.
-datePublished: '2016-05-02T17:22:54.134Z'
-dateModified: '2016-05-02T17:22:14.431Z'
+datePublished: '2016-05-02T17:35:44.159Z'
+dateModified: '2016-05-02T17:23:40.643Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-02-this-is-of-practical-importance-and-i-think-this-is-a-good.md
 published: true
+starred: true
 url: this-is-of-practical-importance-and-i-think-this-is-a-good/index.html
 _type: Article
 
