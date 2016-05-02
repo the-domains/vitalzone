@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[vitalzone]]></title>
         <description><![CDATA[vitalzone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vitalzone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 16:19:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 16:27:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vitalzone/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Desire for continuity is seed of chaos?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af99892a-7b19-4cfc-93d3-ed66c5c6ff75.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/vitalzone/desire-for-continuity-is-seed-of-chaos/index.html</link>
+            <guid isPermaLink="false">1ed5e71c-3059-4d30-a5c5-a2fd5b707c32</guid>
+            <pubDate>Mon, 02 May 2016 16:27:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Vital Zone is about vital issues. Issues that are vital for the planet. Humans are violent. Basically violent. Ideals of non violence and peace are illusions and non-acceptance of the fact.</p>]]></description>
-            <link>undefinedvital-zone-is-about-vital-issues-issues-that-are-vital-for/index.html</link>
+            <link>https://thegrid.ai/vitalzone/vital-zone-is-about-vital-issues-issues-that-are-vital-for/index.html</link>
             <guid isPermaLink="false">d8f4c850-81f4-49ca-83e9-dcc52960bd64</guid>
             <pubDate>Mon, 02 May 2016 16:19:10 GMT</pubDate>
         </item>
